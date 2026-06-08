@@ -1,2 +1,2 @@
 # network-defense-with-ufw-suricata-pentbox
-A hands-on cybersecurity project demonstrating network defense techniques through UFW firewall configuration, Suricata IDS/IPS deployment, and PentBox honeypot implementation on Linux systems
+Building layered network security using UFW, Suricata IDS/IPS, and PentBox Honeypots on Linux.
